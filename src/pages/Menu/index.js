@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles.css';
+import './style.css';
 import { Link } from 'react-router-dom';
 import { FaLaptop } from 'react-icons/fa';
 

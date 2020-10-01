@@ -3,7 +3,7 @@ import './styles.css';
 
 import Menu from '../Menu';
 
-export default function Portfolio() {
+export default function Portifolio() {
   return (
     <>
     <Menu />

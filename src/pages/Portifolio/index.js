@@ -7,7 +7,7 @@ export default function Portfolio() {
   return (
     <>
     <Menu />
-    <h1>Portfolio</h1>
+    <h1>Portifolio</h1>
     
     </>
     );

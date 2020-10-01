@@ -6,8 +6,7 @@ import Menu from '../Menu';
 export default function Portifolio() {
   return (
     <>
-    <Menu/>
-    
+    <Menu />
     <h1>Portifolio</h1>
     
     </>
